@@ -32,7 +32,7 @@ border-bottom:1px solid rgba(255,255,255,.1);
 
 .navbar-brand{
 
-font-size:28px;
+font-size:20px;
 
 font-weight:700;
 
@@ -90,9 +90,10 @@ min-height:100vh;
 
 background:
 
-linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.8)),
 
-url("../ChatGPT\ Image\ Jul\ 26\,\ 2026\,\ 03_31_28\ PM.png");
+linear-gradient(rgba(12, 12, 12, 0.7),rgba(0,0,0,.8)),
+
+url("ChatGPT\ Image\ Jul\ 26\,\ 2026\,\ 03_31_28\ PM.png");
 
 background-size:cover;
 
@@ -100,13 +101,13 @@ background-position:center;
 
 display:flex;
 
-align-items:Right;
+align-items:left;
 
 }
 
 .hero-logo{
 
-width: 420px0px;
+width: 420px;
 
 animation:float 5s infinite;
 
@@ -693,7 +694,7 @@ color:#000;
 
 .store-card img{
     width:100%;
-    height:80o0px;
+    height:400px;
     object-fit:cover;
 }
 
